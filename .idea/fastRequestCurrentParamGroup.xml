@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestCurrentParamGroup">
+    <option name="bodyParamMap">
+      <map>
+        <entry key="order">
+          <value>
+            <Object />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="className" value="com.springamqp.orderservice.controllers.OrderController" />
+    <option name="method" value="create" />
+    <option name="methodType" value="POST" />
+    <option name="module" value="order-service" />
+    <option name="originUrl" value="/v1/orders/" />
+    <option name="returnDocument" value="{&#10;&#9;&quot;id&quot;:&quot;No comment,Type =Number&quot;,&#10;&#9;&quot;value&quot;:&quot;No comment,Type =Number&quot;,&#10;&#9;&quot;paid&quot;:&quot;No comment,Type =Boolean&quot;&#10;}" />
+    <option name="url" value="/v1/orders/" />
+  </component>
+</project>
